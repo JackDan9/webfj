@@ -23,7 +23,7 @@
 	<parent>
 		<artifactId>webfj-parent</artifactId>
 		<groupId>com.feng.jun</groupId>
-		<version>${webfj.version}</version>
+		<version>1.0-SNAPSHOT</version>
 	</parent>
 
 	<modelVersion>4.0.0</modelVersion>
