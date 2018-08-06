@@ -46,7 +46,7 @@
         <quartz.version>2.2.3</quartz.version>
         <slf4j.version>1.7.21</slf4j.version>
         <spring.version>4.3.4.RELEASE</spring.version>
-        <webfj.version>1.0.0</webfj.version>
+        <webfj.version>1.0-SNAPSHOT</webfj.version>
     </properties>
 
     <modules>
